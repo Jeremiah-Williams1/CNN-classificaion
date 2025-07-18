@@ -1,4 +1,4 @@
-# Dog vs Cat Image Classification 🐶🐱
+# Dog vs Cat Image Classification
 
 This project implements a uses Convolutional Neural Network (CNN) using Tensorflow/Keras to classify images of dogs and cats.
 
